@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LsavageSport
+- 👀 I’m interested in Data Science and Sport Data Analytics 
+- 🌱 I’ve currently finished a BSc in Sport Science - Performance Analysis
+- 📫 How to reach me www.linkedin.com/in/lewis-savage-36003b366
